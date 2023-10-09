@@ -228,6 +228,9 @@
 }
 
 .footer {
+    color: #E5E7EB;
     background-color: #1F2937;
     padding: 20px 0;
+    display: flex;
+    justify-content: center;
 }
