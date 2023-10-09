@@ -178,7 +178,7 @@
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-self: center;
+    justify-self: center;
     align-items: center;
     justify-content: center;
 }
