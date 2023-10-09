@@ -29,7 +29,8 @@
     background-color: transparent;
     padding: 60px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
 
 }
 
@@ -66,7 +67,7 @@
 .right-half {
     background-image: url("./images/onion-0.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-origin: border-box;
     border-radius: 10px;
     width: 400px;
