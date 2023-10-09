@@ -179,7 +179,8 @@
 
 .section-3 {
     background-color: #E5E7EB;
-    padding: 60px;
+    padding: 50px;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -196,6 +197,30 @@
 .quote-author {
     color: #1F2937;
     font-size: 20px;
-    font-style: light italic;
-    justify-content: end;
+    font-style: italic;
+    align-items: end;
+}
+
+.section-4 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-4-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section-4-right {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    width: 100px;
+    height: auto;
+    display: flex;
+    justify-content: center;
 }
