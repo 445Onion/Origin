@@ -86,7 +86,7 @@
 
 .subtext-container {
     display: flex;
-    padding: 50px;
+    margin: 50px;
     align-items: center;
     justify-content: space-around;
 }
@@ -180,6 +180,7 @@
     background-color: #E5E7EB;
     width: 500px;
     padding: 50px;
+    margin: 50px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
