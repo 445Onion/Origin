@@ -99,7 +99,6 @@
     height: 160px;
     background-image: url("./images/onion-1.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -116,7 +115,6 @@
     height: 160px;
     background-image: url("./images/onion-2.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -130,10 +128,13 @@
     border: 1px;
     border-radius: 10px;
     width: 120px;
-    height: auto;
+    height: 160px;
+    background-image: url("./images/onion-3.jpg");
+    background-repeat: no-repeat;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: end;
     justify-content: center;
 }
 
@@ -143,9 +144,12 @@
     border: 1px;
     border-radius: 10px;
     width: 120px;
-    height: auto;
+    height: 160px;
+    background-image: url("./images/onion-4.jpg");
+    background-repeat: no-repeat;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: end;
     justify-content: center;
 }
