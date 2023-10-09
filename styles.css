@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header-container {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: end;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header-links {
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+}
+
+.section-1 {
+    color: #F9FAF8;
+    background-color: #1F2937;
+
+}
+
+.header-text {
+    color: #F9FAF8;
+    font-size: 48px;
+}
