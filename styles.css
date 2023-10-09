@@ -52,6 +52,7 @@
     background-color: #3882F6;
     border-radius: 10px;
     padding: 5px;
+    margin-top: 5px;
     width: 100px;
     height: auto;
     display: flex;
@@ -79,7 +80,8 @@
 
 .container-1 {
     color: #e5e7eb;
-    border: #3882F6;
+    border-color: #3882F6;
+    border: 1px;
     border-radius: 10px;
     width: 120px;
     height: auto;
@@ -91,7 +93,8 @@
 
 .container-2 {
     color: #e5e7eb;
-    border: #3882F6;
+    border-color: #3882F6;
+    border: 1px;
     border-radius: 10px;
     width: 120px;
     height: auto;
@@ -103,7 +106,8 @@
 
 .container-3 {
     color: #e5e7eb;
-    border: #3882F6;
+    border-color: #3882F6;
+    border: 1px;
     border-radius: 10px;
     width: 120px;
     height: auto;
@@ -115,7 +119,8 @@
 
 .container-4 {
     color: #e5e7eb;
-    border: #3882F6;
+    border-color: #3882F6;
+    border: 1px;
     border-radius: 10px;
     width: 120px;
     height: auto;
