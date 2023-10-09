@@ -33,6 +33,10 @@
 
 }
 
+.left-half {
+    width: 400px;
+}
+
 .header-text {
     color: #F9FAF8;
     font-weight: bolder;
@@ -65,7 +69,7 @@
     background-size: contain;
     background-origin: border-box;
     border-radius: 10px;
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 
