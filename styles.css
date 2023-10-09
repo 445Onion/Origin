@@ -172,14 +172,17 @@
 }
 
 .section-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.section-3-container {
     background-color: #E5E7EB;
     width: 500px;
     padding: 50px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    justify-self: center;
-    align-items: center;
     justify-content: center;
 }
 
