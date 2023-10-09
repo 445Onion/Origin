@@ -190,14 +190,13 @@
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
-    justify-content: center;
 }
 
 .quote-author {
     color: #1F2937;
     font-size: 20px;
     font-style: italic;
-    align-items: end;
+    align-self: end;
 }
 
 .section-4 {
