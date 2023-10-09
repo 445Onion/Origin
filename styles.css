@@ -201,7 +201,7 @@
     background-color: #1F2937;
     padding: 50px;
     display: flex;
-    justify-content: space-around;
+    justify-self: center;
 }
 
 .section-4-left {
