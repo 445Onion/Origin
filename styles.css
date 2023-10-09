@@ -99,11 +99,13 @@
     height: 160px;
     background-image: url("./images/onion-1.jpg");
     background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: border-box;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: end;
-    justify-content: center;
+    align-items: center;
+    justify-content: end;
 }
 
 .container-2 {
@@ -115,11 +117,13 @@
     height: 160px;
     background-image: url("./images/onion-2.jpg");
     background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: border-box;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: end;
-    justify-content: center;
+    align-items: center;
+    justify-content: end;
 }
 
 .container-3 {
@@ -131,11 +135,13 @@
     height: 160px;
     background-image: url("./images/onion-3.jpg");
     background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: border-box;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: end;
-    justify-content: center;
+    align-items: center;
+    justify-content: end;
 }
 
 .container-4 {
@@ -147,9 +153,11 @@
     height: 160px;
     background-image: url("./images/onion-4.jpg");
     background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: border-box;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: end;
-    justify-content: center;
+    align-items: center;
+    justify-content: end;
 }
