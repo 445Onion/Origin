@@ -47,9 +47,10 @@
 }
 
 .button {
-    color: #3882F6;
+    color: #F9FAF8;
+    background-color: #3882F6;
     border-radius: 10px;
-    padding: 20px;
+    padding: 5px;
     width: 100px;
     height: auto;
 }
