@@ -26,7 +26,7 @@
 
 .section-1 {
     color: #F9FAF8;
-    background-color: #1F2937;
+    background-color: transparent;
     padding: 40px;
     display: flex;
     justify-content: space-around;
@@ -56,3 +56,8 @@
     display: flex;
     justify-content: center;
 }
+
+.section-2 {
+    background-color: #F9FAF8;
+}
+
