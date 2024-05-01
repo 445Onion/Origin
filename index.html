@@ -3,6 +3,10 @@
     <head>
         <meta charset='UTF-8'/>
         <title>The Onion</title>
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        />
         <link rel='stylesheet' href='styles.css'/>
         <style>
             body {
@@ -25,7 +29,30 @@
                     <div class="header-link-2">Twitter</div>
                     <div class="header-link-3">HoloStore</div>
                 </div>
+                <button class="sidebar-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
             </div>
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <div class="sidebar-logo">Navigation</div>
+                    <button class="close-btn">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="sidebar-seperator"></div>
+                <div class="sidebar-items">
+                    <div class="sidebar-link-1">
+                        <a href="index.html">home</a>
+                    </div>
+                    <div class="sidebar-link-2">
+                        <a href="about.html">projects</a>
+                    </div>
+                    <div class="sidebar-link-3">
+                        <a href="projects.html">projects</a>
+                    </div>
+                </div>
+            </aside>
             <div class="section-1">
                 <!-- 2 flex items as the left and right half -->
                 <!-- flex box left half to contain 3 flex items, flex direction column and to the left -->
@@ -77,5 +104,6 @@
                 <div class="footer-text">Created by an Onion Lover</div>
             </div>
         </div>
+        <script src="app.js"></script>
     </body>
 </html>
